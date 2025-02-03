@@ -1,0 +1,411 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "price": 25000,
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+        "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+        "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg"
+      ],
+      "description": "A reliable and comfortable sedan with excellent fuel economy.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder",
+        "Transmission": "8-speed automatic",
+        "Fuel Economy": "28 city / 39 highway",
+        "Horsepower": "203 hp",
+        "bodyType": "Sedan",
+        "fuelType": "Gasoline",
+        "mileage": 35000,
+        "exteriorColor": "Midnight Blue",
+        "interiorColor": "Black",
+        "drivetrain": "Front-wheel drive",
+        "vin": "1HGCV1F34MA046732"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2021,
+      "price": 27000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A stylish and efficient sedan with advanced safety features.",
+      "specifications": {
+        "Engine": "1.5L 4-cylinder Turbo",
+        "Transmission": "CVT",
+        "Fuel Economy": "30 city / 38 highway",
+        "Horsepower": "192 hp",
+        "bodyType": "Sedan",
+        "fuelType": "Gasoline",
+        "mileage": 28000,
+        "exteriorColor": "Modern Steel Metallic",
+        "interiorColor": "Ivory",
+        "drivetrain": "Front-wheel drive",
+        "vin": "1HGCR2F35MA123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price": 45000,
+      "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg",
+        "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg",
+        "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg"
+      ],
+      "description": "A powerful and iconic sports car with a sleek design.",
+      "specifications": {
+        "Engine": "5.0L V8",
+        "Transmission": "10-speed automatic",
+        "Fuel Economy": "16 city / 25 highway",
+        "Horsepower": "450 hp",
+        "bodyType": "Coupe",
+        "fuelType": "Gasoline",
+        "mileage": 5000,
+        "exteriorColor": "Race Red",
+        "interiorColor": "Black",
+        "drivetrain": "Rear-wheel drive",
+        "vin": "1FA6P8CF5M5100001"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2022,
+      "price": 30000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A versatile and spacious SUV with modern technology.",
+      "specifications": {
+        "Engine": "1.5L 4-cylinder Turbo",
+        "Transmission": "6-speed automatic",
+        "Fuel Economy": "26 city / 31 highway",
+        "Horsepower": "170 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 20000,
+        "exteriorColor": "Summit White",
+        "interiorColor": "Jet Black",
+        "drivetrain": "Front-wheel drive",
+        "vin": "3GNAXHEV5ML123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 5,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "price": 26000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A comfortable and efficient sedan with advanced safety features.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder",
+        "Transmission": "CVT",
+        "Fuel Economy": "28 city / 39 highway",
+        "Horsepower": "188 hp",
+        "bodyType": "Sedan",
+        "fuelType": "Gasoline",
+        "mileage": 22000,
+        "exteriorColor": "Scarlet Ember Tintcoat",
+        "interiorColor": "Charcoal",
+        "drivetrain": "Front-wheel drive",
+        "vin": "1N4BL4BV2MC123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 6,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2023,
+      "price": 29000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A stylish and practical SUV with a comfortable interior.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder",
+        "Transmission": "8-speed automatic",
+        "Fuel Economy": "26 city / 33 highway",
+        "Horsepower": "187 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 15000,
+        "exteriorColor": "Phantom Black",
+        "interiorColor": "Gray",
+        "drivetrain": "Front-wheel drive",
+        "vin": "KM8J3CA46PU123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 7,
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2022,
+      "price": 32000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A spacious and family-friendly SUV with modern features.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder Turbo",
+        "Transmission": "8-speed automatic",
+        "Fuel Economy": "24 city / 29 highway",
+        "Horsepower": "281 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 18000,
+        "exteriorColor": "Everlasting Silver",
+        "interiorColor": "Black",
+        "drivetrain": "All-wheel drive",
+        "vin": "5XYPG4A37MG123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 8,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2022,
+      "price": 34000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A rugged and capable wagon with all-wheel drive.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder",
+        "Transmission": "CVT",
+        "Fuel Economy": "26 city / 33 highway",
+        "Horsepower": "182 hp",
+        "bodyType": "Wagon",
+        "fuelType": "Gasoline",
+        "mileage": 25000,
+        "exteriorColor": "Crystal Black Silica",
+        "interiorColor": "Slate Black",
+        "drivetrain": "All-wheel drive",
+        "vin": "4S4BTAMC2N3212345"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 9,
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2022,
+      "price": 31000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A sporty and stylish SUV with a premium feel.",
+      "specifications": {
+        "Engine": "2.5L 4-cylinder",
+        "Transmission": "6-speed automatic",
+        "Fuel Economy": "25 city / 31 highway",
+        "Horsepower": "187 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 20000,
+        "exteriorColor": "Soul Red Crystal",
+        "interiorColor": "Black",
+        "drivetrain": "All-wheel drive",
+        "vin": "JM3KFBCM5N0123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 10,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2022,
+      "price": 33000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A versatile and comfortable SUV with European styling.",
+      "specifications": {
+        "Engine": "2.0L 4-cylinder Turbo",
+        "Transmission": "8-speed automatic",
+        "Fuel Economy": "23 city / 29 highway",
+        "Horsepower": "184 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 22000,
+        "exteriorColor": "Deep Black Pearl",
+        "interiorColor": "Titan Black",
+        "drivetrain": "Front-wheel drive",
+        "vin": "3VV2B7AX9NM123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    },
+    {
+      "id": 11,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2022,
+      "price": 40000,
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg"
+      ],
+      "description": "A rugged and luxurious SUV with off-road capabilities.",
+      "specifications": {
+        "Engine": "3.6L V6",
+        "Transmission": "8-speed automatic",
+        "Fuel Economy": "19 city / 26 highway",
+        "Horsepower": "293 hp",
+        "bodyType": "SUV",
+        "fuelType": "Gasoline",
+        "mileage": 18000,
+        "exteriorColor": "Bright White",
+        "interiorColor": "Black",
+        "drivetrain": "All-wheel drive",
+        "vin": "1C4RJFBG5MC123456"
+      },
+      "features": [
+        "Bluetooth connectivity",
+        "Backup camera",
+        "Keyless entry",
+        "Heated seats",
+        "Navigation system",
+        "Apple CarPlay / Android Auto",
+        "Sunroof",
+        "Lane departure warning"
+      ]
+    }
+  ]
+}
