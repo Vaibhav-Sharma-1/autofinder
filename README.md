@@ -18,7 +18,7 @@ To get started with AutoFinder, follow these steps:
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/autofinder.git
+   git clone https://github.com/Vaibhav-Sharma-1/autofinder.git
    cd autofinder
    \`\`\`
 
